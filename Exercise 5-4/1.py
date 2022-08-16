@@ -5,4 +5,4 @@ def recurse(n, s):
         recurse(n-1, n+5)
 
 
-recurse(-1, 0)
+recurse(3, 0)
